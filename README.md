@@ -1,3 +1,4 @@
+Coming soon!!
 ExpenseEasy is a web application that helps users organize all their shared expenses and IOUs in one place, making it easier to see who owes what. Whether you're sharing expenses for a vacation, splitting rent with roommates, or paying someone back for lunch, ExpenseEasy simplifies the process.
 
 Features
