@@ -1,15 +1,29 @@
-Coming soon!!
-ExpenseEasy is a web application that helps users organize all their shared expenses and IOUs in one place, making it easier to see who owes what. Whether you're sharing expenses for a vacation, splitting rent with roommates, or paying someone back for lunch, ExpenseEasy simplifies the process.
+# Expense Easy
 
-Features
-User Authentication: Secure user registration and login.
-Add Expenses: Users can add expenses and share them among themselves.
-Manage Groups: Users can create and manage groups for shared expenses.
-Calculate Balances: Automatically calculates who owes whom and how much.
-Expense Overview: View all shared expenses and IOUs in one place.
-Installation
-Prerequisites
-Python 3.6+
-pip
-Flask
-SQLite (comes with Python)
+This is a full-stack **Expense Tracker** application built with **React** on the frontend, and **Node.js** (Express) with **MySQL** for the backend. The application allows users to track their income and expenses, providing a simple and intuitive interface to manage finances.
+
+## Features
+
+- **Sign Up / Login**: Users can create an account and log in.
+- **Dashboard**: View total income, total expenses, and remaining balance.
+- **Add Transaction**: Add income and expense transactions.
+- **Transaction History**: View and delete past transactions.
+- **User Authentication**: Secure user registration and login with hashed passwords.
+- **Responsive Design**: The app is designed to be mobile-friendly using **Tailwind CSS**.
+
+## Tech Stack
+
+- **Frontend**: React, React Router, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Database**: MySQL
+- **Authentication**: JWT (JSON Web Token)
+- **APIs**: Custom APIs for handling transactions and user authentication.
+
+## Installation
+
+### Clone the repository
+
+Clone this repository to your local machine using:
+
+```bash
+git clone https://github.com/username/expense-easy.git
